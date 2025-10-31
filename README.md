@@ -65,6 +65,6 @@ The data warehouse supports continuous improvement and learning cycles:
 ## 📬 Authors  
 **Narges Aminimoghaddam & Jafar Abolfathi**  
 Reflective Agile Intelligence (RAI) Framework Creators  
-📚 [raiframework.org](https://raiframework.org) *(Coming Soon)*  
+📚 [raiframework.org](https://raiframework.org) *( The Update Website Coming Soon)*  
 
 ---
